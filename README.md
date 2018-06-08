@@ -1,0 +1,2 @@
+# UnityAnimationClipPaste
+批量裁切fbx上绑定的动画文件，同时保留AnimatorController上的依赖关系
